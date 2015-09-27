@@ -1,13 +1,17 @@
 BIOGRAFIE
 -----------------
-**Naam:** Tine Vancoillie
+
+![alt text]( http://i.imgur.com/8CRPNzu.jpg "Logo")  
+**Naam:** Tine Vancoillie  
 **Geboortejaar:** 17/07/1996
-![alt text]( https://codecademy-production.s3.amazonaws.com/profile_thumbnail/5601364495e3789f7800016e_532538890.jpg?AWSAccessKeyId=AKIAIHCDHT6XA5KTCB3Q&Expires=1443298444&Signature=QO6GrNy8f3PXkrr51TDx0htZIS4%3D "Logo")
 PORTFOLIO
 ----------------
 **studies:**
-|Secundair onderwijs| **Mode en creatie** | Sivi Torhout - Sint-Rembert | 2008-2014 |
-|Hoger onderwijs| **Bachelor Grafische en Digitale Media- ProDev**| Artevelde hogeschool | 2014-...|
+
+| Type | Richting | Instelling | Jaren |
+| ----- | -------- | --------- | ----- |
+| Secundair onderwijs | **Mode en creatie** | Sivi Torhout - Sint-Rembert | 2008-2014 |
+| Hoger onderwijs | **Bachelor Grafische en Digitale Media- ProDev**| Artevelde hogeschool | 2014-...|
 
 WERKERVARING
 --------------
